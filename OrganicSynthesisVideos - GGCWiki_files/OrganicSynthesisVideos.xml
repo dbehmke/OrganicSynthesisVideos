@@ -1,0 +1,72 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.5/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.5/ http://www.mediawiki.org/xml/export-0.5.xsd" version="0.5" xml:lang="en">
+  <siteinfo>
+    <sitename>GGCWiki</sitename>
+    <base>http://wiki.ggc.usg.edu/wiki/Main_Page</base>
+    <generator>MediaWiki 1.17.0</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter"/>
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">GGCWiki</namespace>
+      <namespace key="5" case="first-letter">GGCWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>OrganicSynthesisVideos</title>
+    <id>340622</id>
+    <revision>
+      <id>1291982</id>
+      <timestamp>2019-07-13T23:33:00Z</timestamp>
+      <contributor>
+        <username>Dbehmke</username>
+        <id>13843</id>
+      </contributor>
+      <text xml:space="preserve" bytes="2626">__NOTOC__
+&lt;h1&gt;&lt;center&gt;Organic Chemistry II Synthesis Problem Sets and Solution Videos&lt;/center&gt;&lt;/h1&gt;
+The problem sets below are designed to help students learn the process of organic synthesis.  Each problem set is accompanied by a series of videos documenting the thought process and solution to each problem in the set.  Video solutions can be accessed by clicking on the link, or they can be accessed using the augmented reality (AR) app Aurasma (HP Reveal).
+
+Click [http://wiki.ggc.usg.edu/images/8/8f/AccessingAurasma.pdf here] to learn how to install the Aurasma (HP Reveal) App on your Android or iOS mobile device.  Once you have the app installed each problem within a problem set will serve as trigger to activate the associated video solution.  NOTE:  If the problem set contains clip art, aim your camera at the clip art image and slowly back out to make sure the correct video is triggered.
+
+=== Problem Set 1: ===
+[http://wiki.ggc.usg.edu/images/0/01/ProblemSet1.pdf Problem Set 1]&lt;br&gt;
+[https://www.youtube.com/watch?v=2FpItaEjaTE Video Solution to Problem 1]&lt;br&gt;
+[https://www.youtube.com/watch?v=Euxy7RUwSGM Video Solution to Problem 2]&lt;br&gt;
+=== Problem Set 2: ===
+[http://wiki.ggc.usg.edu/images/a/ae/ProblemSet2.pdf Problem Set 2]&lt;br&gt;
+[https://www.youtube.com/watch?v=BtLUpHOY_cw Video Solution to Problem 1]&lt;br&gt;
+[https://www.youtube.com/watch?v=ctcAwhBrCC0 Video Solution to Problem 2]&lt;br&gt;
+[https://www.youtube.com/watch?v=APlZGwm6BSg Video Solution to Problem 3]&lt;br&gt;
+[https://www.youtube.com/watch?v=tXa5CP3MGy0 Video Solution to Problem 4]&lt;br&gt;
+=== Problem Set 3: ===
+[http://wiki.ggc.usg.edu/images/c/c1/ProblemSet3.pdf Problem Set 3]&lt;br&gt;
+[https://www.youtube.com/watch?v=onvCUldDZtQ Video Solution to Problem 1]&lt;br&gt;
+[https://www.youtube.com/watch?v=Ltc2umjl5_c Video Solution to Problem 2]&lt;br&gt;
+[https://www.youtube.com/watch?v=Olhs-qhHC4Y Video Solution to Problem 3]&lt;br&gt;
+=== Problem Set 4: ===
+[http://wiki.ggc.usg.edu/images/1/10/ProblemSet4.pdf Problem Set 4]&lt;br&gt;
+[https://www.youtube.com/watch?v=yuEZp804uiE Video Solution to Problem 1]&lt;br&gt;
+[https://www.youtube.com/watch?v=mtAIt7NbBs8 Video Solution to Problem 2]&lt;br&gt;
+[https://www.youtube.com/watch?v=tJ9mtSQmfeU Video Solution to Problem 3]&lt;br&gt;
+[https://www.youtube.com/watch?v=Hbwu5UgZ5ds Video Solution to Problem 4]&lt;br&gt;
+=== Problem Set 5: ===
+[http://wiki.ggc.usg.edu/images/e/e7/ProblemSet5.pdf Problem Set 5]&lt;br&gt;
+[https://www.youtube.com/watch?v=xoLJR2s8_58 Video Solution to Problem 1]&lt;br&gt;
+[https://www.youtube.com/watch?v=uzth__YyJ0k Video Solution to Problem 2]&lt;br&gt;
+[https://www.youtube.com/watch?v=iq8H8hByZeA Video Solution to Problem 3]&lt;br&gt;</text>
+    </revision>
+  </page>
+</mediawiki>
